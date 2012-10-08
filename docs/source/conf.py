@@ -34,7 +34,8 @@ extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest',
               'matplotlib.sphinxext.only_directives',
               'ipython_console_highlighting',
               'ipython_directive',
-              'numpy_ext.numpydoc']
+              'numpy_ext.numpydoc',
+              'sphinxcontrib.bibtex']
 
 # plot_directive is broken on old matplotlib
 from matplotlib import __version__ as mpl_version

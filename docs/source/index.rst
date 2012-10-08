@@ -84,6 +84,7 @@ Table of Contents
    tools
    datasets/index
    sandbox
+   references
 
 
 Indices and tables
